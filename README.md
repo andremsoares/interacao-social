@@ -1,1 +1,1 @@
-# intera-o-social
+# interacao-social
