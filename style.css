@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #272727;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+.menu-container {
+    display: flex;
+}
+
+.menu-summary {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.menu-icone {
+    margin: 6px;
+}
+
+.menu-texto {
+    margin-left: 6px;
+    color: #fff;
+    font-size: 12px;
+}
