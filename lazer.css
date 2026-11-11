@@ -90,13 +90,12 @@ header {
     text-align: center;
 }
 
-.secao-texto1 {
-    display: flex;
-    flex-direction: column;
-    align-items: start;
+.secao-texto1, .secao-imagem1 {
+    flex: 1;
 }
 
 .caixa-texto {
+    margin-top: 20px;
     max-width: 150px;
     font-size: 0.9rem;
     line-height: 1.5;
