@@ -22,6 +22,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    border-top: 1px solid #ff3b30;
+    border-bottom: 1px solid #ff3b30;
 }
 
 .logo {

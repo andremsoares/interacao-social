@@ -22,6 +22,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    border-top: 1px solid #ff3b30;
+    border-bottom: 1px solid #ff3b30;
 }
 
 .logo {
@@ -94,6 +96,7 @@ header {
 }
 
 .banner-principal {
+    margin-top: 2vh;
     background-color: #ff3b30;
     padding: 30px 20px;
     border-radius: 12px;
